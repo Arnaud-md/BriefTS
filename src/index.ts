@@ -1,16 +1,11 @@
 import {exo1} from './exo1';
+import {exo2} from './exo2';
+import {exo3} from './exo3';
+import {exo4} from './exo4';
+import {exo5} from './exo5';
+import {exo6} from './exo6';
 
-// A Supprimer
-console.log('Hello TypeScript');
-
-let i = 0;
-i++;
-if(i < 2) {
-    i += 3;
-}
-else {
-    i += 2;
-}
-console.log('affichage de i', i);
-
-exo1();
+//exo1();
+//exo2();
+//exo3();
+exo4();
